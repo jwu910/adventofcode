@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"allowSyntheticDefaultImports": true,
+		"baseUrl": "./src",
+		"esModuleInterop": true,
+		"experimentalDecorators": true,
+		"moduleResolution": "node",
+		"outDir": "./dist",
+		"target": "ES5",
+        "allowJs": true,
+        "noImplicitAny": true,
+        "sourceMap": true
+	},
+	"include": ["./src/**/*"]
+}
+

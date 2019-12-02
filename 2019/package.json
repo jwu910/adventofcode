@@ -1,0 +1,22 @@
+{
+  "name": "aoc2019",
+  "version": "1.0.0",
+  "description": "",
+  "main": "''",
+  "scripts": {
+    "test": "''"
+  },
+  "repository": {
+    "type": "git",
+    "url": "''"
+  },
+  "keywords": [
+    "''"
+  ],
+  "author": "Joshua Wu <jwu910@gmail.com>",
+  "license": "UNLICENSED",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^12.12.14"
+  }
+}
